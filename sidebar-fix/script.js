@@ -1,5 +1,5 @@
 //* TITLE Estufar's Sidebar Fix **//
-//* VERSION 1.0 REV A **//
+//* VERSION 1.0 **//
 //* DESCRIPTION  **//
 //* DEVELOPER estufar **//
 //* FRAME false **//
