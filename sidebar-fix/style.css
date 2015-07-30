@@ -10,6 +10,10 @@
 	position: static;
 }
 
+.right_column .popover .popover_inner_list .selected:not(.popover_menu_sublist) {
+	background-color: transparent!important;
+}
+
 .right_column .popover_inner {
 	border-radius: 0!important;
 	box-shadow: none!important;
